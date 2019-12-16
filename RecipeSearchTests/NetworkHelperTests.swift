@@ -10,5 +10,5 @@ import XCTest
 @testable import RecipeSearch
 
 class NetworkHelperTests: XCTestCase {
-
+    
 }
